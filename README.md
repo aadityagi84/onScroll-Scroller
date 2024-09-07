@@ -7,4 +7,4 @@
 
 <p>to see what's the output
 <a href="https://aadityagi84.github.io/onScroll-Scroller/"> click here !!🥲
- </a></p>This is for websitw version only and please ignore the text and focus on only slider which will be rotate with the on scroll
+ </a></p>This is for website version for desktop  only it will not be shown correctly on mobile and please ignore the text and focus on only slider which will be rotate with the on scroll
